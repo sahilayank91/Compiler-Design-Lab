@@ -1,0 +1,20 @@
+2
+3 S
+S:aABb
+A:c|~
+B:d|~
+5
+ab
+acb
+adb
+acdb
+acddb
+5 E
+E:TX
+X:+TX|~
+T:FY
+Y:*FY|~
+F:a|(E)
+2
+a*+a
+a*a*a+a*a+(a+a*((a)))
